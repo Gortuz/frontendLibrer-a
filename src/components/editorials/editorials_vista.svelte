@@ -66,6 +66,7 @@
                     <th>Nombre</th> 
                     <th>País</th>
                     <th>Ciudad</th>
+                    <th>Acciones</th>
                 </tr>
             </thead>
             <tbody>
