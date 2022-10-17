@@ -1,0 +1,12 @@
+.fluid{
+  align-content: center;
+  width: 100%;
+  max-width: initial;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.padding-titulo{
+  padding-top: 1%;
+  padding-bottom: 2%;
+}
